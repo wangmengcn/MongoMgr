@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MongoConf>
+  <ServerName name="localhost" ip="127.0.0.1" port="27017" />
+  <ServerName name="abc" ip="127.0.0.1" port="27017" />
+  <ServerName name="mongo1" ip="192.168.186.133" port="27017" />
+  <ServerName name="二部服务器" ip="59.173.238.35" port="22222" />
+</MongoConf>

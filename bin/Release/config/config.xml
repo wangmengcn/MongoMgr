@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MongoConf>
+  <ServerName name="减灾中心内网" ip="172.17.30.109" port="27017" />
+  <ServerName name="mongo1" ip="59.173.238.35" port="22222" />
+</MongoConf>
